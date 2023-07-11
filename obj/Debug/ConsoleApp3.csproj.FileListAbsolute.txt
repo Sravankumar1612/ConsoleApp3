@@ -1,0 +1,8 @@
+E:\New folder\Day2\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+E:\New folder\Day2\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+E:\New folder\Day2\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+E:\New folder\Day2\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+E:\New folder\Day2\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
+E:\New folder\Day2\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+E:\New folder\Day2\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+E:\New folder\Day2\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
